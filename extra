@@ -1,0 +1,49 @@
+Page 1
+List of mobiles     
+List of companies
+ 
+filter
+RAM
+Customer Rating 
+internal storage
+batterycapacity
+> sort
+    sort low to high in same quickSearch > Done
+    sort high to low in same quickSearch > Done
+
+Page 2
+List of mobiles    
+filter
+RAM
+Customer Rating 
+internal storage
+batterycapacity
+> sort
+    sort low to high in same quickSearch > Done
+    sort high to low in same quickSearch > Done
+pagination
+
+Page 3
+> MObiles details
+
+page 4
+> api to place order  
+
+page 5
+> list all order   
+
+
+
+///////////////////
+Admin app Node
+
+Page 1
+> list of all mobiles
+  > Add new mobiles
+  > update mobiles details
+  > delete mobiles
+
+Page 2
+> Mange Orders
+ > List all the Orders
+ > update order status (accepted/reject)
